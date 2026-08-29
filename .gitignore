@@ -12,8 +12,7 @@ ssh_sessions.json
 ssh_backup_*.json
 *.lnk
 
-# Release binaries (Users can download from Releases or build locally)
-dist/
+
 
 # Operating System Files
 Thumbs.db
