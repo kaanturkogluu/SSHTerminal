@@ -1,0 +1,32 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# PyInstaller & Build intermediate directories
+build/
+*.spec
+
+# User local sessions & credentials (Never commit secrets!)
+ssh_sessions.json
+ssh_backup_*.json
+*.lnk
+
+# Release binaries (Users can download from Releases or build locally)
+dist/
+
+# Operating System Files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+.DS_Store
+
+# Virtual Environments & IDE
+.env
+.venv
+env/
+venv/
+ENV/
+.vscode/
+.idea/
