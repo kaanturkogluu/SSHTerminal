@@ -14,11 +14,11 @@ VSVersionInfo(
       [
       StringTable(
         '040904B0',
-        [StringStruct('CompanyName', 'SSH Terminal Solutions'),
+        [StringStruct('CompanyName', 'Kaan Turkoglu'),
         StringStruct('FileDescription', 'SSH Terminal & Server Automation Manager'),
         StringStruct('FileVersion', '1.0.0.0'),
         StringStruct('InternalName', 'SSHTerminal'),
-        StringStruct('LegalCopyright', 'Copyright (C) 2026. All rights reserved.'),
+        StringStruct('LegalCopyright', 'Copyright (C) 2026 Kaan Turkoglu. All rights reserved.'),
         StringStruct('OriginalFilename', 'SSHTerminal.exe'),
         StringStruct('ProductName', 'SSH Terminal Manager'),
         StringStruct('ProductVersion', '1.0.0.0')])

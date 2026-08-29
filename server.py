@@ -81,7 +81,10 @@ def print_banner():
       \__ \__ \ __ |   | | | _||   / |\/| || || .` |/ _ \| |__  
       |___/___/_||_|   |_| |___|_|_\_|  |_|___|_|\_/_/ \_\____| 
                                                                 
-         >> SSH Oturum & Otomasyon Yonetim Konsolu <<            
+         >> SSH Oturum & Otomasyon Yonetim Konsolu << 
+
+         >> Kaan TÜRKOĞLU << 
+
 ================================================================={C.RESET}"""
     print(banner)
 
